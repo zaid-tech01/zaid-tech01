@@ -1,4 +1,4 @@
-## 🏆 GitHub Achievements
+##
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zaid-tech01&show_icons=true&theme=tokyonight" />
@@ -17,7 +17,7 @@
 
 ---
 
-🌱 I’m currently learning **Animations for React Native**  
+🌱 Currently learning Data Analysis with Python
 👯 I’m looking to collaborate on **Topic Modeling in Short Texts**  
 💬 Ask me about **Java, JavaScript, React, Node**  
 📫 How to reach me: **zsiddiqui2240@gmail.com**
