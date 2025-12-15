@@ -1,5 +1,4 @@
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zaid-tech01&theme=onedark&no-frame=true&margin-w=10" />
 </p>
