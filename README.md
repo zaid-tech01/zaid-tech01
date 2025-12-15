@@ -10,7 +10,11 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_mohdzaidcivil/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohdzaidcivil/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+</p>
 ---
 
 ## 🛠 Languages and Tools
