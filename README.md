@@ -19,11 +19,11 @@
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohdzaidcivil/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zsiddiqui2240@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/email.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="42"/>
   </a>
 </p>
 ---
