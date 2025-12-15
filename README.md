@@ -15,15 +15,15 @@
 
 ---
 
-### 📫 How to reach me
-- 📧 **Email:** zsidddiqui2240@gmail.com
-
----
 
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohdzaidcivil/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zsiddiqui2240@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
 </p>
 ---
