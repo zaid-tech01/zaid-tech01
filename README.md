@@ -46,8 +46,7 @@
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zaid-tech01)
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zaid-tech01)
 ---
 
 ## 📊 GitHub Stats
