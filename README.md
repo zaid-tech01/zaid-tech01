@@ -23,7 +23,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zsiddiqui2240@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/email.png" width="40"/>
   </a>
 </p>
 ---
