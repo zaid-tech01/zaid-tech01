@@ -7,9 +7,7 @@
 
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaid-tech01&show_icons=true&theme=tokyonight" />
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaid-tech01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
