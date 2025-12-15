@@ -5,10 +5,10 @@
   Hi 👋, I'm Mohd Zaid
 </h1>
 
-<p align="center">
-  <img
-  src="https://readme-typing-svg.herokuapp.com?...React+Native+Learner..." />
-</p>
+<img
+src="https://readme-typing-svg.herokuapp.com
+?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=
+React+Native+Learner;Java+%7C+JavaScript+%7C+React+%7C+Node;Open+to+Collaboration" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaid-tech01&label=Profile%20views&color=0e75b6&style=flat" />
