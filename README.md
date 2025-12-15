@@ -46,10 +46,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaid-tech01&theme=onedark" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=zaid-tech01)
 
 ---
 
