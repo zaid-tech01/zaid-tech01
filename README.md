@@ -50,7 +50,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=zaid-tech01&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zaid-tech01&theme=onedark" />
 </p>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
