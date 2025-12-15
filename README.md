@@ -1,3 +1,8 @@
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaid-tech01&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 <h1 align="center">
   Hi 👋, I'm Mohd Zaid
 </h1>
