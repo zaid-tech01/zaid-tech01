@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 
 <h3 align="center">
-  Engineering Student | Full-Stack Developer 🚀
+  Engineering Student | Frontend Developer 🚀
 </h3>
 
 <p align="center">
@@ -10,16 +10,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🌱 About Me
 
-- 🎓 Engineering Student passionate about **Web Development**
-- 💻 Building responsive and user-friendly **Frontend interfaces**
-- ⚙️ Working on **Backend development with Node.js**
-- 🌐 Learning **Full-Stack Web Development**
-- 🚀 Building real-world projects to improve my skills
-- 🤝 Open to collaborating on **Web Development projects**
-- 💡 Interested in learning new technologies and solving real-world problems
-
+- 🎓 Engineering Student passionate about Web Development
+- 💻 Building responsive and user-friendly websites
+- 🌐 Working with HTML, CSS & JavaScript
+- ⚛️ Learning React.js
+- 🎨 Interested in UI/UX and modern web design
+- 🚀 Learning by building real-world projects
+- 🤝 Open to collaborating on Frontend projects
 ---
 
 ### 🛠️ Tech Stack
