@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaid-tech01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-### 🌱 About Me
+ 🌱 About Me
 
 - 🎓 Engineering Student passionate about Web Development
 - 💻 Learning and building projects with HTML, CSS & JavaScript
