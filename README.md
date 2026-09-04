@@ -12,23 +12,19 @@
 - 🤝 Looking to collaborate on Frontend & UI projects
 - 🚀 Learning by building real-world projects
 
-
 ### 🌐 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mohdzaidcivil/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="42"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:zsiddiqui2240@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="42"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zaidddsid/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="42"/>
+  </a>
 </p>
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github" />
-</p>
----
 
