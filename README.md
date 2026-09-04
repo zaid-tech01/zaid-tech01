@@ -28,35 +28,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-#### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-#### 🗄️ Database & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
 
-- 🌐 **Portfolio Website** — HTML, CSS & JavaScript
-- ⚛️ **React Projects** — Modern & responsive UI
-- 🛒 **E-Commerce Website** — Frontend + Backend
-- 🔐 **Full-Stack Web App** — React + Node.js + Database
+- 🌐 Portfolio Website — HTML, CSS & JavaScript
+- ⚛️ React Projects — Modern & Responsive UI
+- 🛒 E-Commerce Website — Frontend
+- 🎨 Responsive Landing Pages — HTML & CSS
 
 ---
 
 ### 🌱 Currently Learning
 
 - ⚛️ React.js
-- 🟢 Node.js & Express.js
-- 🗄️ MongoDB
-- 🔐 REST APIs & Authentication
-- 🚀 Full-Stack Development
-
+- 🎨 Advanced CSS & Responsive Design
+- 💻 JavaScript
+- 🖥️ Modern Frontend Development
+- ✨ UI/UX Design
 ---
 
 ### 🌐 Connect with me
