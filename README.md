@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
-<h3 align="center">Engineering Student | Tech Learner 🚀</h3>
+<h3 align="center">Engineering Student | Frontend Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaid-tech01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
 ### 🌱 About Me
-- 🌱 Currently learning **Data Analysis with Python & SQL**
-- 🤝 Looking to collaborate on **Topic Modeling & NLP projects**
-- 💬 Ask me about **Python, JavaScript, React, Node**
-- 🚀 Believe in **learning by building real-world projects**
 
----
+- 🎓 Engineering Student passionate about Web Development
+- 💻 Learning and building projects with HTML, CSS & JavaScript
+- ⚛️ Exploring React and modern frontend development
+- 🤝 Looking to collaborate on Frontend & UI projects
+- 🚀 Learning by building real-world projects
 
 
 ### 🌐 Connect with me
@@ -29,9 +26,9 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,git,mysql,mongodb" />
-</p>
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github" />
+</p>
 ---
 
