@@ -34,7 +34,6 @@
 
 - 🌐 Portfolio Website — HTML, CSS & JavaScript
 - ⚛️ React Projects — Modern & Responsive UI
-- 🛒 E-Commerce Website — Frontend
 - 🎨 Responsive Landing Pages — HTML & CSS
 
 ---
